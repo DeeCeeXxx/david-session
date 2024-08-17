@@ -59,23 +59,26 @@ router.get('/', async (req, res) => {
 				   let session = await Qr_Code_By_Wasi_Tech.sendMessage(Qr_Code_By_Wasi_Tech.user.id, { text: '' + b64data });
 	
 				   let WASI_MD_TEXT = `
-┏━━━━━━━━━━━━━━
-┃QUEEN_ANITA_V2 SESSION IS 
-┃SUCCESSFULLY
-┃CONNECTED ✅🔥
-┗━━━━━━━━━━━━━━━
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || Creator = 𖥘 DAVID CYRIL 𖥘
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-Please Follow My Support Channel
-Wanna talk to me?👉 https://t.me/deecee_x 👈
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-©*2024-2099 David Cyril*
-_____________________________________
-	
-_Don't Forget To Give Star To My Repo_`
+*BERA-TECH- QR CONNECTED TO YOUR DEVICE*
+♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡
+♡♡ *THANK YOU FOR CHOOSING BERA-TECH-* ♡♡
+♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡
+
+*FOLLOW OUR CHANNEL *
+𓄂 *https://whatsapp.com/channel/0029VajJoCoLI8YePbpsnE3q*
+
+*JOIN OUR GROUP *
+𓄂 *https://chat.whatsapp.com/D3iyJB5hrhF7ov7JxgW92C*
+
+*VISIT FOR TUTORIALS *
+𓄂 *http://t.me/Alphatrex*
+
+*DEVELOPER: BRUCE BERA*
+𓄂 *https://wa.me/254743982206*
+
+*POWERED BY BERA TECH* *MADE WITH 💎*
+
+_Make sure you leave a Star To My Repo_`
 	 await Qr_Code_By_Wasi_Tech.sendMessage(Qr_Code_By_Wasi_Tech.user.id,{text:WASI_MD_TEXT},{quoted:session})
 
 
