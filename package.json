@@ -11,7 +11,7 @@
   "author": "WasiTech",
   "license": "GPL-3.0 license",
   "dependencies": {
-    "@whiskeysockets/baileys": "^6.5.0",
+    "@whiskeysockets/baileys": "^6.6.0",
     "maher-zubair-baileys": "^6.6.5",
     "qrcode": "^1.5.3",
     "awesome-phonenumber": "^2.64.0",
