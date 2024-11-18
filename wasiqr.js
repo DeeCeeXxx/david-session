@@ -60,19 +60,21 @@ router.get('/', async (req, res) => {
 	
 				   let WASI_MD_TEXT = `
 ┏━━━━━━━━━━━━━━
-┃QUEEN_ANITA_V2 SESSION IS 
+┃Goku-v3 SESSION IS 
 ┃SUCCESSFULLY
 ┃CONNECTED ✅🔥
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || Creator = 𖥘 DAVID CYRIL 𖥘
+❶ || Creator = 𖥘 BRUCE BERA 𖥘
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L
+❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VajJoCoLI8YePbpsnE3q
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 Please Follow My Support Channel
-Wanna talk to me?👉 https://t.me/deecee_x 👈
+Wanna talk to me?👉 https://t.me/Alphatrex 👈
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-©*2024-2099 David Cyril*
+GitHub repository = https://github.com/berabotsmd/Goku-v3 
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+©*2024-2099 BRUCE BERA*
 _____________________________________
 	
 _Don't Forget To Give Star To My Repo_`
